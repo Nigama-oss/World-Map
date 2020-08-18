@@ -1,7 +1,7 @@
 # World-map
 An interactive world map.
 
-You can change the 'LAT' & 'LON' info to spot the exact location.
+You can change the 'Location' parameter to spot the exact location.
 
 The map is coloured according to the population of each country.
 
